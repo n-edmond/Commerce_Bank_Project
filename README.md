@@ -1,17 +1,5 @@
 # Commerce Bank Project
 
-## Team Contacts
-Natalie Taylor – Campus Recruiter – Natalie.Taylor@commercebank.com 
-
-Binh Mai – UX/Tech Mentor – Binh.Mai@commercebank.com 
-
-Natalie Jenkins – UX/Tech Mentor – Natalie.Jenkins@commercebank.com 
-
-Molly Gilstrap – UX/Tech Mentor –Molly.Gilstrap@CommerceBank.com
-
-*We highly recommend you reach out to any of the tech mentors with any questions or concerns throughout the semester. They will be available via email or Slack.
-
-
 ## High Level Overview
 
 A web application that pulls in transaction details (we will provide sample data) and allows the user to set triggers for notification rules and receive notifications around them. The system should also save data to a database so recurring reports can be created.
@@ -209,3 +197,18 @@ During final presentation, we would like to see the following:
 · Keep it simple. Less is more sometimes.
 
 · Have fun.
+
+
+
+## Team Contacts
+Natalie Taylor – Campus Recruiter – Natalie.Taylor@commercebank.com 
+
+Binh Mai – UX/Tech Mentor – Binh.Mai@commercebank.com 
+
+Natalie Jenkins – UX/Tech Mentor – Natalie.Jenkins@commercebank.com 
+
+Molly Gilstrap – UX/Tech Mentor –Molly.Gilstrap@CommerceBank.com
+
+*We highly recommend you reach out to any of the tech mentors with any questions or concerns throughout the semester. They will be available via email or Slack.
+
+
